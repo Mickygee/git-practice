@@ -5,7 +5,7 @@ int main()
     int new,old;
     printf("Hello this is the first batch\n");
     printf("This is modified\n");
-    printf("Modified again\n");
+    printf("removed this\n");
     getchar();
 
     return 0;
