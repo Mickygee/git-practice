@@ -1,11 +1,13 @@
 #include <stdio.h>
 
+
 int main()
 {
-    int new,old;
-    printf("Hello we learning\n");
-    printf("This is modified\n");
-    printf("removed this\n");
+    system("color 0a");
+    int new = 10;
+    printf("Hello we doing something\n");
+    printf("This is for the branch/n");
+    printf("New number is: %d\n", new);
     getchar();
 
     return 0;
